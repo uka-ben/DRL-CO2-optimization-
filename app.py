@@ -188,7 +188,10 @@ print(data)
 
 
 # Main Tabs
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Data Insights", "🏋️ Model Training", "📈 Model Evaluation", "🔮 Live Predictions", "About"])
+tab1, tab2, tab3 = st.tabs(["📊 Data Insights", "🏋️ Model Training", "📈 Model Evaluation"])
+tab4, tab5 = st.tabs(["🔮 Live Predictions", "About"])
+
+
 
 # Data Insights Tab
 with tab1:
