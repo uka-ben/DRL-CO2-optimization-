@@ -102,6 +102,7 @@ image1 = Image.open("mypiclogo.png")
 st.image(image1) 
 st.write("benjaminukaimo@gmail.com")
 st.write("+2347067193071")
+st.write("pls contact me if you want the complete co2 optimization system")
 st.write("My name is Uka Benjamin. I'm a data scientist with good experiences")
 
 
