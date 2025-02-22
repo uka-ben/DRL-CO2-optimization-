@@ -111,7 +111,7 @@ st.write("My name is Uka Benjamin. I'm a data scientist with good experiences")
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background: linear-gradient(135deg,brown,pink, gray, #f5f7fa);
+    background: linear-gradient(135deg,white,pink, gray, #f5f7fa);
     color: #333;
 }
 [data-testid="stSidebar"] {
@@ -168,7 +168,7 @@ Welcome to the **CO2 Emission Optimization Dashboard**! This application showcas
 
 # Load and preprocess data
 # Load the dataset
-data = pd.read_csv('co2_emission_reduction.csv')
+data = pd.read_csv('data.csv')
 
 # Handle missing values
 data = data.dropna()
