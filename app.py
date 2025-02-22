@@ -13,7 +13,7 @@ import cloudpickle
 import sys
 from PIL import Image
 from io import StringIO
-import wbgapi as wb
+#import wbgapi as wb
 
 # ==================== Dataset Preparation ====================
 
