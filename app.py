@@ -282,7 +282,7 @@ with tab4:
 with tab5:
     st.header("About   ℹ ")
     st.write("""
-    This application is developed by **[Your Name]**, a data scientist specializing in **AI for Sustainability**. The goal is to demonstrate how advanced machine learning techniques can be applied to real-world environmental challenges.
+    This application is developed by **Uka Benjamin **, a data scientist specializing in **AI for Sustainability**. The goal is to demonstrate how advanced machine learning techniques can be applied to real-world environmental challenges.
     """)
     st.write("**Technologies Used:**")
     st.write("- Python, Streamlit, Stable-Baselines3")
@@ -293,4 +293,5 @@ with tab5:
 
 # Footer
 st.markdown("---")
-st.write("Developed with ❤️ by **[Uka Benjamin Imo]** | [GitHub](https://github.com/uka-ben) | [LinkedIn](https://www.linkedin.com/in/benjamin-uka-imo)")
+st.write("Developed with ❤️ by **Uka Benjamin Imo** | [GitHub](https://github.com/uka-ben) | [LinkedIn](https://www.linkedin.com/in/benjamin-uka-imo)")
+
